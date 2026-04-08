@@ -1,10 +1,3 @@
-## 🔗 Navegación
-
-← Volver al repositorio principal:  
-https://github.com/lizmartinezz21/Machine-Learning
-
----
-
 <h1 align="center">Álgebra Lineal con Python</h1>
 
 <p align="center">
@@ -116,3 +109,10 @@ El álgebra lineal es un pilar fundamental en inteligencia artificial, ya que su
 - Procesamiento de datos  
 
 Comprender estos conceptos permite avanzar hacia modelos más complejos con mayor claridad.
+
+---
+
+## 🔗 Navegación
+
+← Volver al repositorio principal:  
+https://github.com/lizmartinezz21/Machine-Learning
