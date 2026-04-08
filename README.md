@@ -1,3 +1,10 @@
+## 🔗 Navegación
+
+← Volver al repositorio principal:  
+https://github.com/lizmartinezz21/Machine-Learning
+
+---
+
 <h1 align="center">Álgebra Lineal con Python</h1>
 
 <p align="center">
