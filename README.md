@@ -112,7 +112,7 @@ Comprender estos conceptos permite avanzar hacia modelos más complejos con mayo
 
 ---
 
-## 🔗 Navegación
+## Navegación
 
 ← Volver al repositorio principal:  
 https://github.com/lizmartinezz21/Machine-Learning
